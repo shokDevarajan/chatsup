@@ -5,3 +5,7 @@
 5.New new features added into it
 6.Adding audio features
 7.Adding video features
+
+
+8. User can able to play train games in their status
+
