@@ -1,2 +1,2 @@
 # chatsup
-This repository is to develop messaging application
+This repository is to develop messaging application and its functions.
