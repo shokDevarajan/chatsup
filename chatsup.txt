@@ -1,0 +1,4 @@
+1.Writing a new file
+2. Creating features into it
+3. Checking the features of the file
+4.Developing the functionalities
